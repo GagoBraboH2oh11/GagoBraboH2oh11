@@ -29,7 +29,7 @@
 
 ### Quer ver um repositorio meu? :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GagoBraboH2oh11&repo=all-my-coding)](https://github.com/GagoBraboH2oh11/all-my-coding)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GagoBraboH2oh11&repo=my-codeing-save)](https://github.com/GagoBraboH2oh11/my-codeing-save)
 
 <hr>
 <div> 
@@ -51,4 +51,4 @@
 ### Essa são minhas estatísticas (isso pode mudar bastante!)
 (That's my stats (that might a lot!))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GagoBraboH2oh11&langs_count=8)](https://github.com/GagoBraboH2oh11/all-my-coding)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GagoBraboH2oh11&langs_count=8)](https://github.com/GagoBraboH2oh11/my-codeing-save)
